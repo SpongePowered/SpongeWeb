@@ -1,0 +1,13 @@
+{
+  "name": "spongeweb",
+  "version": "1.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/SpongePowered/SpongeWeb#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpongePowered/SpongeWeb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SpongePowered/SpongeWeb/issues"
+  }
+}
